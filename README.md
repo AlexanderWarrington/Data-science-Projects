@@ -1,7 +1,7 @@
 Data-science-Projects
 A repository of completed and in-progress projects.
 
-Clustering U.S Arrests.
+# Clustering U.S Arrests.
 
 This project aims to identify homogenous groups of U.S. states based on their crime rate in a series of offences in 1973.
 
@@ -14,7 +14,7 @@ Rape    numeric Rape arrests   (per 100,000)
 UrbanPop	numeric	Percent urban population
 
 
-Table of contents:
+# Table of contents:
 
 1. Data cleaning and descriptive statistics
 
